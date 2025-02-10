@@ -1,5 +1,3 @@
-# negin sarvandi
-#402130663
 import speech_recognition as sp_r
 import pyttsx3
 from deep_translator import GoogleTranslator
